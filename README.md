@@ -1,2 +1,3 @@
-# MelWilliamsonPortfolio
-Portfolio of Melanie Williamson's work
+# MelanieMoenningPortfolio
+
+A portfolio showing Melanie Williamsons most recent work. 
